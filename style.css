@@ -1,0 +1,13 @@
+
+.grid-layouts{
+    border: 2px solid black;
+     
+}
+.container{
+    border: 2px solid black;
+}
+div>img{
+    border: 2px solid black;
+    display: inline;
+    
+}
